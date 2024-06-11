@@ -20,25 +20,6 @@ This project scrapes data on Nigerian universities from the Wikipedia page "List
 - Seaborn
 - Matplotlib
 
-## Usage
-
-1. Clone the repository:
-```
-git clone https://github.com/your-username/NigerianUniversities_Beautiful_Soup.git
-```
-
-2. Navigate to the project directory:
-```
-cd NigerianUniversities_Beautiful_Soup
-```
-
-3. Open the Jupyter Notebook:
-```
-jupyter notebook NigerianUniversities_Beautiful_Soup.ipynb
-```
-
-4. Run the cells in the notebook to scrape the data and perform the analysis.
-
 ## Data
 
 The dataset contains information on the following attributes of Nigerian universities:
