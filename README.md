@@ -31,6 +31,4 @@ The dataset contains information on the following attributes of Nigerian univers
 - Funding
 - Founded
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
